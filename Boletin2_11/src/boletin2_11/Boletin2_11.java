@@ -19,7 +19,7 @@ public class Boletin2_11 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        float stotal,sfijo,comision,kilometros,diasdesplazado,kilometraje,dietas,ventas;
+        int stotal,sfijo,comision,kilometros,diasdesplazado,kilometraje,dietas,ventas;
         
         sfijo = Float.parseFloat(JOptionPane.showInputDialog("sfijo"));
         ventas = Float.parseFloat(JOptionPane.showInputDialog("ventas"));
